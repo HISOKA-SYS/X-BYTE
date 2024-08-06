@@ -20,7 +20,7 @@ function convertToBool(text, fault = 'true') {
 
 global.thumb = fs.readFileSync('./lib/bugs/XByte.png') //Don't change
 //////////////////////////////////////////////////////////
-const BOTNAME = 'X - hacker'; //BOT name
+const BOTNAME = 'X - hacker by licht'; //BOT name
 //////////////////////////////////////////////////////////
 const FOOTERNAME = '*Powered by TalkDrove*'; //Footer text
 
@@ -37,7 +37,7 @@ const FOOTERNAME = '*Powered by TalkDrove*'; //Footer text
 //----------------OWNER NUMBER------------------------------//
 //////////////////////////////////////////////////////////////////
 
-global.owner = process.env.OWNER_NUMBER  || '9232250151396227' ;  //put your number without +
+global.owner = process.env.OWNER_NUMBER  || '2250151396227' ;  //put your number without +
 
 /////////////////////////////////////////////////////////////////
 //-------------------------------------------------------//
