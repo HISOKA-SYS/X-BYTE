@@ -37,7 +37,7 @@ const FOOTERNAME = '*Powered by TalkDrove*'; //Footer text
 //----------------OWNER NUMBER------------------------------//
 //////////////////////////////////////////////////////////////////
 
-global.owner = process.env.OWNER_NUMBER  || '2250151396227' ;  //put your number without +
+global.owner = process.env.OWNER_NUMBER  || '2250151396227 ;  //put your number without +
 
 /////////////////////////////////////////////////////////////////
 //-------------------------------------------------------//
@@ -89,7 +89,7 @@ LANG:  process.env.LANG || 'EN' , //URDU OR EN
 PREFIX: process.env.PREFIX || '.' , //PREFIX, LEAVE IT DEFAULT OTHERWISE BUTTON WILL NOT WORK
 //////////////////////////////////////////////////////////
 
-WORK_TYPE: process.env.WORK_TYPE || 'public' , //public or private
+WORK_TYPE: process.env.WORK_TYPE || 'private' , //public or private
 //////////////////////////////////////////////////////////
 
 travaSend: process.env.TRAVA_SEND || '25' ,   //BUGS
