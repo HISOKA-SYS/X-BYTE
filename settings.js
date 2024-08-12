@@ -86,7 +86,7 @@ LOGO: process.env.LOGO || `https://raw.githubusercontent.com/HyHamza/HyHamza/mai
 LANG:  process.env.LANG || 'EN' , //URDU OR EN
 //////////////////////////////////////////////////////////
 
-PREFIX: process.env.PREFIX || '.' , //PREFIX, LEAVE IT DEFAULT OTHERWISE BUTTON WILL NOT WORK
+PREFIX: process.env.PREFIX || 'par defaut' , //PREFIX, LEAVE IT DEFAULT OTHERWISE BUTTON WILL NOT WORK
 //////////////////////////////////////////////////////////
 
 WORK_TYPE: process.env.WORK_TYPE || 'public' , //public or private
